@@ -24,49 +24,49 @@ I am generally interested in natural language processing. Current interests incl
 # Publications
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
-**In-sample Curriculum Learning by Sequence Completion for Natural Language Generation**
-*Qi Jia*, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu$^\dagger$
-ACL 2023. [[arxiv]]() [[github]]()
+**In-sample Curriculum Learning by Sequence Completion for Natural Language Generation**  
+*Qi Jia*, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu$^\dagger$  
+ACL 2023. [[arxiv]]() [[github]]()  
 
-**Reducing Sensitivity on Speaker Names for Text Generation from Dialogues**
-*Qi Jia*, Haifeng Tang, Kenny Q. Zhu$^\dagger$
-Findings of ACL 2023. [[arxiv]]() [[github]]()
+**Reducing Sensitivity on Speaker Names for Text Generation from Dialogues**   
+*Qi Jia*, Haifeng Tang, Kenny Q. Zhu$^\dagger$  
+Findings of ACL 2023. [[arxiv]]() [[github]]()  
 
-**Opinion Summarization by Weak-Supervision from Mix-structured Data**
-Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$
-EMNLP 2022. [[arxiv]]() [[github]]()
+**Opinion Summarization by Weak-Supervision from Mix-structured Data**  
+Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$  
+EMNLP 2022. [[arxiv]]() [[github]]()  
 
-**Taxonomy of Abstractive Dialogue Summarization: Scenarios, Approaches and Future Directions**
-*Qi Jia*, Siyu Ren, Yizhu Liu, Kenny Q. Zhu$^\dagger$
-Arxiv. [[arxiv]]()
+**Taxonomy of Abstractive Dialogue Summarization: Scenarios, Approaches and Future Directions**  
+*Qi Jia*, Siyu Ren, Yizhu Liu, Kenny Q. Zhu$^\dagger$  
+Arxiv. [[arxiv]]()  
 
-**Length control in abstractive summarization by pretraining information selection**
-Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$
-ACL 2022. [[arxiv]]() [[github]]()
+**Length control in abstractive summarization by pretraining information selection**  
+Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$  
+ACL 2022. [[arxiv]]() [[github]]()  
 
-**Post-Training Dialogue Summarization using Pseudo-Paraphrasing**
-*Qi Jia*, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu$^\dagger$
-Findings of NAACL-HLT 2022. [[arxiv]]() [[github]]()
+**Post-Training Dialogue Summarization using Pseudo-Paraphrasing**  
+*Qi Jia*, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu$^\dagger$  
+Findings of NAACL-HLT 2022. [[arxiv]]() [[github]]()  
 
-**Reference-free Summarization Evaluation via Semantic Correlation and Compression Ratio**
-Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$
-NAACL 2022. [[arxiv]]() [[github]]()
+**Reference-free Summarization Evaluation via Semantic Correlation and Compression Ratio**  
+Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$  
+NAACL 2022. [[arxiv]]() [[github]]()  
 
-**Keyword-aware abstractive summarization by extracting set-level intermediate summaries**
-Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$
-WWW 2021. [[arxiv]]() [[github]]()
+**Keyword-aware abstractive summarization by extracting set-level intermediate summaries**  
+Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$  
+WWW 2021. [[arxiv]]() [[github]]()  
 
-**DDRel: A New Dataset for Interpersonal Relation Classification in Dyadic Dialogues**
-*Qi Jia*, Hongru Huang, Kenny Q. Zhu$^\dagger$
-AAAI 2021. [[arxiv]]() [[github]]()
+**DDRel: A New Dataset for Interpersonal Relation Classification in Dyadic Dialogues**  
+*Qi Jia*, Hongru Huang, Kenny Q. Zhu$^\dagger$  
+AAAI 2021. [[arxiv]]() [[github]]()  
 
-**Multi-turn Response Selection using Dialogue Dependency Relations**
-*Qi Jia*, Yizhu Liu, Siyu Ren, Kenny Q. Zhu$^\dagger$
-EMNLP 2020. [[arxiv]]() [[github]]()
+**Multi-turn Response Selection using Dialogue Dependency Relations**  
+*Qi Jia*, Yizhu Liu, Siyu Ren, Kenny Q. Zhu$^\dagger$  
+EMNLP 2020. [[arxiv]]() [[github]]()  
 
-**Matching Questions and Answers in Dialogues from Online Forums**
-*Qi Jia*, Mengxue Zhang, Shengyao Zhang, Kenny Q. Zhu$^\dagger$
-ECAI 2020. [[arxiv]]() [[github]]()
+**Matching Questions and Answers in Dialogues from Online Forums**  
+*Qi Jia*, Mengxue Zhang, Shengyao Zhang, Kenny Q. Zhu$^\dagger$  
+ECAI 2020. [[arxiv]]() [[github]]()  
 
 
 # Service
