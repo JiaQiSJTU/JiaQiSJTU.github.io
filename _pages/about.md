@@ -70,7 +70,7 @@ ECAI 2020. [[arxiv]]() [[github]]()
 
 
 # Service
-Reviewer: ACL, EMNLP
+Reviewer: ACL, EMNLP, AAAI
 
 # Awards
 - 2020-2021 National Scholarship in China
