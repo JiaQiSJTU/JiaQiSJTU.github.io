@@ -80,8 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jia, Qi"
-  name2            : "贾琪"
+  name             : "贾琪 Jia, Qi"
   avatar           : "WechatIMG203.png"
   bio              : "PhD student at SJTU"
   location         : "Shanghai, China"
