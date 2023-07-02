@@ -26,47 +26,47 @@ I am generally interested in natural language processing. Current interests incl
 
 **In-sample Curriculum Learning by Sequence Completion for Natural Language Generation**  
 *Qi Jia*, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu$^\dagger$  
-ACL 2023. [[arxiv]]() [[github]]()  
+ACL 2023. [[paper]](https://arxiv.org/pdf/2211.11297.pdf) [[github]]()  
 
 **Reducing Sensitivity on Speaker Names for Text Generation from Dialogues**   
 *Qi Jia*, Haifeng Tang, Kenny Q. Zhu$^\dagger$  
-Findings of ACL 2023. [[arxiv]]() [[github]]()  
+Findings of ACL 2023. [[paper]](https://arxiv.org/pdf/2305.13833.pdf) [[github]]()  
 
 **Opinion Summarization by Weak-Supervision from Mix-structured Data**  
 Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$  
-EMNLP 2022. [[arxiv]]() [[github]]()  
+EMNLP 2022. [[paper]](https://aclanthology.org/2022.emnlp-main.201.pdf) [[github]]()  
 
 **Taxonomy of Abstractive Dialogue Summarization: Scenarios, Approaches and Future Directions**  
 *Qi Jia*, Siyu Ren, Yizhu Liu, Kenny Q. Zhu$^\dagger$  
-Arxiv. [[arxiv]]()  
+Arxiv. [[arxiv]](https://arxiv.org/pdf/2210.09894.pdf)  
 
 **Length control in abstractive summarization by pretraining information selection**  
 Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$  
-ACL 2022. [[arxiv]]() [[github]]()  
+ACL 2022. [[paper]](https://aclanthology.org/2022.acl-long.474.pdf) [[github]]()  
 
 **Post-Training Dialogue Summarization using Pseudo-Paraphrasing**  
 *Qi Jia*, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu$^\dagger$  
-Findings of NAACL-HLT 2022. [[arxiv]]() [[github]]()  
+Findings of NAACL-HLT 2022. [[paper]](https://aclanthology.org/2022.findings-naacl.125.pdf) [[github]]()  
 
 **Reference-free Summarization Evaluation via Semantic Correlation and Compression Ratio**  
 Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$  
-NAACL 2022. [[arxiv]]() [[github]]()  
+NAACL 2022. [[paper]](https://aclanthology.org/2022.naacl-main.153.pdf) [[github]]()  
 
 **Keyword-aware abstractive summarization by extracting set-level intermediate summaries**  
 Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$  
-WWW 2021. [[arxiv]]() [[github]]()  
+WWW 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449906) [[github]]()  
 
 **DDRel: A New Dataset for Interpersonal Relation Classification in Dyadic Dialogues**  
 *Qi Jia*, Hongru Huang, Kenny Q. Zhu$^\dagger$  
-AAAI 2021. [[arxiv]]() [[github]]()  
+AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17551) [[github]]()  
 
 **Multi-turn Response Selection using Dialogue Dependency Relations**  
 *Qi Jia*, Yizhu Liu, Siyu Ren, Kenny Q. Zhu$^\dagger$  
-EMNLP 2020. [[arxiv]]() [[github]]()  
+EMNLP 2020. [[paper]](https://aclanthology.org/2020.emnlp-main.150.pdf) [[github]]()  
 
 **Matching Questions and Answers in Dialogues from Online Forums**  
 *Qi Jia*, Mengxue Zhang, Shengyao Zhang, Kenny Q. Zhu$^\dagger$  
-ECAI 2020. [[arxiv]]() [[github]]()  
+ECAI 2020. [[paper]](https://ecai2020.eu/papers/248_paper.pdf) [[github]]()  
 
 
 # Service
