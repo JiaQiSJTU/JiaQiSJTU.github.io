@@ -23,6 +23,7 @@ I am generally interested in natural language processing. Current interests incl
 
 # Publications
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
+
 **Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model**  
 *Qi Jia*, Siyu Ren, Yizhu Liu, Kenny Q. Zhu$^\dagger$   
 EMNLP 2023. coming soon~
@@ -77,9 +78,9 @@ ECAI 2020. [[paper]](https://ecai2020.eu/papers/248_paper.pdf) [[code]](https://
 
 
 # Service
-Reviewer: ACL, ACL-ARR, EMNLP, AAAI, WWW, SIGIR, IJCAL, ECAL, TASL 
 
-Volunteer: AAAI2021, NAACL2022, ACL2023
+- Reviewer: ACL, ACL-ARR, EMNLP, AAAI, WWW, SIGIR, IJCAL, ECAL, TASL   
+- Volunteer: AAAI2021, NAACL2022, ACL2023
 
 # Awards
 - 2020-2021 National Scholarship in China
