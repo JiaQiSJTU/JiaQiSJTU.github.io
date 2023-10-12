@@ -23,6 +23,13 @@ I am generally interested in natural language processing. Current interests incl
 
 # Publications
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
+**Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model**
+*Qi Jia*, Siyu Ren, Yizhu Liu, Kenny Q. Zhu$^\dagger$ 
+EMNLP 2023. coming soon~
+
+**Context Compression for Auto-regressive Transformer with Sentinel Tokens**
+Siyu Ren, *Qi Jia*, Kenny Q. Zhu$^\dagger$ 
+EMNLP 2023. coming soon~
 
 **In-sample Curriculum Learning by Sequence Completion for Natural Language Generation**  
 *Qi Jia*, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu$^\dagger$  
@@ -70,7 +77,7 @@ ECAI 2020. [[paper]](https://ecai2020.eu/papers/248_paper.pdf) [[code]](https://
 
 
 # Service
-Reviewer: ACL, EMNLP, AAAI  
+Reviewer: ACL, ACL-ARR, EMNLP, AAAI, WWW, SIGIR, IJCAL, ECAL, TASL 
 Volunteer: AAAI2021, NAACL2022, ACL2023
 
 # Awards
