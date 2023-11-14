@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am currently a PhD student in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) advised by [Kenny Q. Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). Before that, I received the bachelor degree in Computer Science from University of Electronic Science and Technology of China in 2018. 
+I am currently a PhD student in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) advised by [Kenny Q. Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). Before that, I received the bachelor degree in Computer Science from University of Electronic Science and Technology of China. 
 
 
 # Research
@@ -84,5 +84,4 @@ ECAI 2020. [[paper]](https://ecai2020.eu/papers/248_paper.pdf) [[code]](https://
 
 # Awards
 - 2020-2021 National Scholarship in China
-- 2018 Outstanding Graduates of University of Electronic Science and Technology of China
 - 2016-2017 National Scholarship in China
