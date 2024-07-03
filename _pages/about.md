@@ -26,11 +26,11 @@ I am generally interested in natural language processing. Current interests incl
 
 **Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model**  
 *Qi Jia*, Siyu Ren, Yizhu Liu, Kenny Q. Zhu$^\dagger$   
-EMNLP 2023. coming soon~
+EMNLP 2023. [[paper]](https://aclanthology.org/2023.emnlp-main.679/) [[code]](https://github.com/JiaQiSJTU/FaithEval-FFLM)
 
 **Context Compression for Auto-regressive Transformer with Sentinel Tokens**  
 Siyu Ren, *Qi Jia*, Kenny Q. Zhu$^\dagger$   
-EMNLP 2023. coming soon~
+EMNLP 2023. [[paper]](https://aclanthology.org/2023.emnlp-main.794/) [[code]](https://github.com/DRSY/KV_Compression)
 
 **In-sample Curriculum Learning by Sequence Completion for Natural Language Generation**  
 *Qi Jia*, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu$^\dagger$  
@@ -40,13 +40,13 @@ ACL 2023. [[paper]](https://arxiv.org/pdf/2211.11297.pdf) [[code]](https://githu
 *Qi Jia*, Haifeng Tang, Kenny Q. Zhu$^\dagger$  
 Findings of ACL 2023. [[paper]](https://arxiv.org/pdf/2305.13833.pdf) [[code]](https://github.com/JiaQiSJTU/SpeakerNameSensitivity)  
 
+**Taxonomy of Abstractive Dialogue Summarization: Scenarios, Approaches and Future Directions**  
+*Qi Jia*, Siyu Ren, Yizhu Liu, Kenny Q. Zhu$^\dagger$  
+ACL Computing Surveys Vol. 56, No. 3. [[paper]](https://dl.acm.org/doi/abs/10.1145/3622933)  
+
 **Opinion Summarization by Weak-Supervision from Mix-structured Data**  
 Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$  
 EMNLP 2022. [[paper]](https://aclanthology.org/2022.emnlp-main.201.pdf) [[code]](https://github.com/YizhuLiu/Opinion-Summarization)  
-
-**Taxonomy of Abstractive Dialogue Summarization: Scenarios, Approaches and Future Directions**  
-*Qi Jia*, Siyu Ren, Yizhu Liu, Kenny Q. Zhu$^\dagger$  
-Arxiv. [[arxiv]](https://arxiv.org/pdf/2210.09894.pdf)  
 
 **Length control in abstractive summarization by pretraining information selection**  
 Yizhu Liu, *Qi Jia*, Kenny Q. Zhu$^\dagger$  
