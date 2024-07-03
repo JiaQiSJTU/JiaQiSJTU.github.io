@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am currently a PhD student in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) advised by [Kenny Q. Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). Before that, I received the bachelor degree in Computer Science from University of Electronic Science and Technology of China. 
+I am a postdoc researcher in [National University of Singapore](https://www.nus.edu.sg/) advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/). Before that, I obtained my PhD degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) advised by [Prof. Kenny Q. Zhu](https://kenzhu2000.github.io/) and [Prof. Mengyue Wu](https://myw19.github.io/), and the bachelor degree in Computer Science from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). 
 
 
 # Research
@@ -83,5 +83,7 @@ ECAI 2020. [[paper]](https://ecai2020.eu/papers/248_paper.pdf) [[code]](https://
 - Volunteer: AAAI2021, NAACL2022, ACL2023
 
 # Awards
+- 2024 Outstanding Graduates from Shanghai Jiao Tong University
 - 2020-2021 National Scholarship in China
+- 2018 Outstanding Graduates of University of Electronic Science and Technology of China
 - 2016-2017 National Scholarship in China
