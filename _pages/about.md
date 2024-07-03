@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am a postdoc researcher in [National University of Singapore] advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/). Before that, I obtained my PhD degree from [Shanghai Jiao Tong University] advised by [Prof. Kenny Q. Zhu](https://kenzhu2000.github.io/) and [Prof. Mengyue Wu](https://myw19.github.io/), and the bachelor degree in Computer Science from [University of Electronic Science and Technology of China]. 
+I am a postdoc researcher in National University of Singapore advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/). Before that, I obtained my PhD degree from Shanghai Jiao Tong University advised by [Prof. Kenny Q. Zhu](https://kenzhu2000.github.io/) and [Prof. Mengyue Wu](https://myw19.github.io/), and the bachelor degree in Computer Science from University of Electronic Science and Technology of China. 
 
 
 # Research
