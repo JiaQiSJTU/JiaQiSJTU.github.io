@@ -22,16 +22,16 @@ I am generally interested in natural language processing. Current interests incl
 
 # Recent Arxivs
 
-**Boosting LLM via Learning from Data Iteratively and Selectively**
-*Qi Jia*, Siyu Ren, Ziheng Qin, Fuzhao Xue, Jinjie Ni, Yang You$^\dagger$
+**Boosting LLM via Learning from Data Iteratively and Selectively**  
+*Qi Jia*, Siyu Ren, Ziheng Qin, Fuzhao Xue, Jinjie Ni, Yang You$^\dagger$  
 arxiv 2024. [[paper]](https://arxiv.org/pdf/2412.17365) [[code]](https://github.com/JiaQiSJTU/IterIT)
 
-**VISUAL PERCEPTION IN TEXT STRINGS**
-*Qi Jia*, Xiang Yue, Shanshan Huang, Ziheng Qin, Yizhu Liu, Bill Yuchen Lin, Yang You$^\dagger$ 
+**VISUAL PERCEPTION IN TEXT STRINGS**  
+*Qi Jia*, Xiang Yue, Shanshan Huang, Ziheng Qin, Yizhu Liu, Bill Yuchen Lin, Yang You$^\dagger$   
 arxiv 2024. [[paper]](https://arxiv.org/pdf/2410.01733) [[code]](https://github.com/JiaQiSJTU/VisionInText)
 
-**SimulBench: Evaluating Language Models with Creative Simulation Tasks**
-*Qi Jia*, Xiang Yue, Tianyu Zheng, Jie Huang, Bill Yuchen Lin$^\dagger$
+**SimulBench: Evaluating Language Models with Creative Simulation Tasks**  
+*Qi Jia*, Xiang Yue, Tianyu Zheng, Jie Huang, Bill Yuchen Lin$^\dagger$  
 arxiv 2024. [[paper]](https://arxiv.org/pdf/2410.01733) [[code]](https://github.com/SimulBench/SimulBench)
 
 
