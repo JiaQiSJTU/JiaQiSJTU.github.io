@@ -84,7 +84,7 @@ WWW 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449906) [[code]]
 AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17551) [[code]](https://github.com/JiaQiSJTU/DialogueRelationClassification)  
 
 **Multi-turn Response Selection using Dialogue Dependency Relations**  
-*Qi Jia*, Yizhu Liu, Siyu Ren, Kenny Q. Zhu$^\dagger$  
+*Qi Jia*, Yizhu Liu, Siyu Ren, Kenny Q. Zhu$^\dagger$, Haifeng Tang  
 EMNLP 2020. [[paper]](https://aclanthology.org/2020.emnlp-main.150.pdf) [[code]](https://github.com/JiaQiSJTU/ResponseSelection)  
 
 **Matching Questions and Answers in Dialogues from Online Forums**  
