@@ -16,7 +16,7 @@ I am a postdoc researcher in National University of Singapore advised by [Prof. 
 # Research
         
 I am generally interested in natural language processing. Current interests include: 
-- Boosting the Post-training of LLMs with Mixed or Synthetic Data
+- Boosting the Post-training of LLMs given Mixed or Synthetic Data
 - Benchmarking and Enhancing LLM's & MLLM's Ability on Cross-Modality Tasks
 - Understanding and Generation for Dialogue and Summarization Tasks
 
