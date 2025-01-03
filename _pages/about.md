@@ -16,13 +16,28 @@ I am a postdoc researcher in National University of Singapore advised by [Prof. 
 # Research
         
 I am generally interested in natural language processing. Current interests include: 
-- Natural language generation
-- Dialogue understanding and generation
-- Abstractive summarization
+- Boosting the Post-training of LLMs with Mixed or Synthetic Data
+- Benchmarking and Enhancing LLM's & MLLM's Ability on Cross-Modality Tasks
+- Understanding and Generation for Dialogue and Summarization Tasks
+
+# Recent Arxivs
+
+**Boosting LLM via Learning from Data Iteratively and Selectively**
+*Qi Jia*, Siyu Ren, Ziheng Qin, Fuzhao Xue, Jinjie Ni, Yang You$^\dagger$
+arxiv 2024. [[paper]](https://arxiv.org/pdf/2412.17365) [[code]](https://github.com/JiaQiSJTU/IterIT)
+
+**VISUAL PERCEPTION IN TEXT STRINGS**
+*Qi Jia*, Xiang Yue, Shanshan Huang, Ziheng Qin, Yizhu Liu, Bill Yuchen Lin, Yang You$^\dagger$ 
+arxiv 2024. [[paper]](https://arxiv.org/pdf/2410.01733) [[code]](https://github.com/JiaQiSJTU/VisionInText)
+
+**SimulBench: Evaluating Language Models with Creative Simulation Tasks**
+*Qi Jia*, Xiang Yue, Tianyu Zheng, Jie Huang, Bill Yuchen Lin$^\dagger$
+arxiv 2024. [[paper]](https://arxiv.org/pdf/2410.01733) [[code]](https://github.com/SimulBench/SimulBench)
+
 
 
 # Publications
-\* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
+$^\dagger$ denotes corresponding author/main advisor
 
 **Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model**  
 *Qi Jia*, Siyu Ren, Yizhu Liu, Kenny Q. Zhu$^\dagger$   
@@ -76,10 +91,16 @@ EMNLP 2020. [[paper]](https://aclanthology.org/2020.emnlp-main.150.pdf) [[code]]
 *Qi Jia*, Mengxue Zhang, Shengyao Zhang, Kenny Q. Zhu$^\dagger$  
 ECAI 2020. [[paper]](https://ecai2020.eu/papers/248_paper.pdf) [[code]](https://github.com/JiaQiSJTU/QAmatching)  
 
+# Education / Experience
+* Postdoc, National University of Singapore. 2024 -
+* Ph.D., Shanghai Jiao Tong University. 2018 - 2024
+* NLP Research Intern, 01.ai. 2023.11 – 2024.02
+* NLP Engineer Intern, miHoYo Technology (Shanghai) Co., Ltd. 2023.06 – 2023.10
+* Bachelor, University of Electronic Science and Technology of China. 2014 - 2018
 
 # Service
 
-- Reviewer: ACL, ACL-ARR, EMNLP, AAAI, WWW, SIGIR, IJCAL, ECAL, TASL   
+- Reviewer: ACL, ACL-ARR, EMNLP, NAACL, ICLR, AAAI, WWW, SIGIR, IJCAL, ECAL, TASL
 - Volunteer: AAAI2021, NAACL2022, ACL2023
 
 # Awards
